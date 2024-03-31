@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-
+//ver31
 @Service
 public class BlogService {
 
